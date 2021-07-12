@@ -6,6 +6,7 @@ In addition to this, you need to know more about it.
 ++ Questions (embed an answer file in your sentiment analysis project git): ++
 
 ### What is HTTP?
+* HTTP stands for Hyper Text Transfer Protocol. The communication between client computers and web servers is done by sending **HTTP Requests** and receiving **HTTP Responses**
 
 * What is an API?
 
