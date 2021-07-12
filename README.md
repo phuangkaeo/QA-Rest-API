@@ -13,7 +13,7 @@ In addition to this, you need to know more about it.
 
 APIs let your product or service communicate with other products and services without having to know how they’re implemented. This can simplify app development, saving time and money. When you’re designing new tools and products—or managing existing ones—APIs give you flexibility; simplify design, administration, and use; and provide opportunities for innovation.
 
-* What is the specificity of REST APIs?
+### What is the specificity of REST APIs?
 
 * What is a URI, an endpoint, an operation?
 
