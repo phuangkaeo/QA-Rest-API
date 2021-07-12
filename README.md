@@ -8,7 +8,10 @@ In addition to this, you need to know more about it.
 ### What is HTTP?
 * HTTP stands for Hyper Text Transfer Protocol. The communication between client computers and web servers is done by sending **HTTP Requests** and receiving **HTTP Responses**
 
-* What is an API?
+### What is an API?
+* An API is a set of definitions and protocols for building and integrating application software. API stands for **Application Programming Interface**.
+
+APIs let your product or service communicate with other products and services without having to know how they’re implemented. This can simplify app development, saving time and money. When you’re designing new tools and products—or managing existing ones—APIs give you flexibility; simplify design, administration, and use; and provide opportunities for innovation.
 
 * What is the specificity of REST APIs?
 
