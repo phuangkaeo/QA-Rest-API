@@ -26,6 +26,19 @@ APIs let your product or service communicate with other products and services wi
 
 ### What is a URI, an endpoint, an operation?
 * A **Uniform Resource Identifier (URI)** is a unique sequence of characters that identifies a logical or physical resource used by web technologies. URIs may be used to identify anything, including real-world objects, such as people and places, concepts, or information resources such as web pages and books. Some URIs provide a means of locating and retrieving information resources on a network (either on the Internet or on another private network, such as a computer filesystem or an Intranet), these are Uniform Resource Locators (URLs). A URL provides the location of the resource
+* An endpoint is one end of a communication channel. When an API interacts with another system, the touchpoints of this communication are considered endpoints. For APIs, an endpoint can include a URL of a server or service. Each endpoint is the location from which APIs can access the resources they need to carry out their function.
+* CRUD vs REST Explained
+
+    The confusion between CRUD and REST stems from the fact that interacting with REST applications often involves the use of CRUD-like functions. This is because REST applications are built around resources (as outlined in the Uniform Interface constraint), which can be created, read, updated, and deleted, just like entries in a collection of data.
+
+    Let’s dive a little deeper. Most of the time, when we talk about REST, we refer to web APIs that adhere to the constraints of REST — or REST APIs. By the nature of REST APIs being served over the web, these APIs communicate with clients using the HTTP protocol, which has its own set of methods for data manipulation: GET, POST, DELETE, PUT, and PATCH, among others. And if you think about it, there’s clearly some overlap between HTTP methods and CRUD functions:
+CRUD	HTTP
+CREATE	POST/PUT
+READ	GET
+UPDATE	PUT/POST/PATCH
+DELETE	DELETE
+
+APIs work using ‘requests’ and ‘responses.’ When an API requests information from a web application or web server, it will receive a response. The place that APIs send requests and where the resource lives, is called an endpoint.
 
 * What can be found in the documentation of a rest API?
 
