@@ -47,7 +47,7 @@ APIs work using ‘requests’ and ‘responses.’ When an API requests informa
 ### What can be found in the documentation of a rest API?
 * The documentation allows you to find the list of endpoints along with the corresponding HTTP verb. 
 
-* Use Postman to make a 3 request on the public API of your choice. Share the requests as well as the answers.
+### Use Postman to make a 3 request on the public API of your choice. Share the requests as well as the answers.
 
 ++ Application: ++
 
