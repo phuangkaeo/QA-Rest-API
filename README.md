@@ -38,9 +38,9 @@ APIs work using ‘requests’ and ‘responses.’ When an API requests informa
 
 | CRUD  | HTTP |
 | ----- | ----- |
-| CREATE   | POST/PUT   |
+| CREATE   | POST   |
 | READ   | GET   |
-| UPDAE   | PUT/POST/PATCH |
+| UPDAE   | PUT/PATCH |
 | DELETE   | DELETE   |
 
 
