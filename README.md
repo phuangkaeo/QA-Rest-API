@@ -5,7 +5,7 @@ In addition to this, you need to know more about it.
 
 ++ Questions (embed an answer file in your sentiment analysis project git): ++
 
-* What is HTTP?
+## What is HTTP?
 
 * What is an API?
 
