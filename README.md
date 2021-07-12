@@ -32,7 +32,8 @@ APIs let your product or service communicate with other products and services wi
     The confusion between CRUD and REST stems from the fact that interacting with REST applications often involves the use of CRUD-like functions. This is because REST applications are built around resources (as outlined in the Uniform Interface constraint), which can be created, read, updated, and deleted, just like entries in a collection of data.
 
     Let’s dive a little deeper. Most of the time, when we talk about REST, we refer to web APIs that adhere to the constraints of REST — or REST APIs. By the nature of REST APIs being served over the web, these APIs communicate with clients using the HTTP protocol, which has its own set of methods for data manipulation: GET, POST, DELETE, PUT, and PATCH, among others. And if you think about it, there’s clearly some overlap between HTTP methods and CRUD functions:
-| CRUD  | HTT |
+
+| CRUD  | HTTP |
 | ----- | ----- |
 | CREATE   | POST/PUT   |
 | READ   | GET   |
